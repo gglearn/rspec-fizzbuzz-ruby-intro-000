@@ -1,0 +1,3 @@
+def fizbuzz(x)
+  
+end
