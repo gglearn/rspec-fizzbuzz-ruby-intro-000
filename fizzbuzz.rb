@@ -1,3 +1,3 @@
-def fizbuzz(x)
+def fizzbuzz(x)
 
 end
